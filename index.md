@@ -14,7 +14,7 @@ B.S., Basic Psychology<br>
 # Research Interests
 Visual perception, Attention, Neural Networks
 
-# RESEARCH EXPERIENCES
+# Research Experiences
 08.2019 - Present<br>
 Postgraduate research, [Cognitive Neurophysiology Laboratory](http://neuron.psych.ac.cn/),<br>
 Supervisor: [Tao Zhang](http://psych.cas.cn/sourcedb/cn/expert/201003/t20100324_6369818.html)<br>
