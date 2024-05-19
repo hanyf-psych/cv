@@ -35,6 +35,6 @@ __Manuscripts__ (#: co-first author; *: correspondent author)
 1. Han, W., Feng, T., **Han, Y.**, Sun, Y., Jiang, Y., & Zhang, T. * (submitted).The brain time estimation system is dynamically assembled by non-temporal perceptual states.
 
 __Conference Presentations__ 
-**Han, Y.**, Han, W., Li, L. *, Zhang, T. *, & Wang, Y. (2022, June). Identifying critical kinematic features of animate motion and contribution to animacy perception.[Talk session]. Brown Bag Series in the State Key Laboratory of Brain and Cognitive Science. Beijing, China.
+1. **Han, Y.**, Han, W., Li, L. *, Zhang, T. *, & Wang, Y. (2022, June). Identifying critical kinematic features of animate motion and contribution to animacy perception.[Talk session]. Brown Bag Series in the State Key Laboratory of Brain and Cognitive Science. Beijing, China.
 
 
