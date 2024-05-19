@@ -1,6 +1,6 @@
 # Yifei Han
 Ph.D. Student<br>
-[email](hanyf@psych.ac.cn) / [Google Scholar](https://scholar.google.com/citations?user=UOXgriEAAAAJ&hl=zh-CN)
+[Email](hanyf@psych.ac.cn) / [Google Scholar](https://scholar.google.com/citations?user=UOXgriEAAAAJ&hl=zh-CN)
 
 
 # Education
