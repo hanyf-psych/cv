@@ -22,7 +22,7 @@ Topic: Object recognition, Motion perception <br>
 
 12.2017 – 06.2019<br>
 Undergraduate research, Visual Cognition and Imaging Lab<br>
-Supervisor: [Jiehui Qian](https://psy.sysu.edu.cn/teacher/309)
+Supervisor: [Jiehui Qian](https://psy.sysu.edu.cn/teacher/309)<br>
 Topic: Attention, Size perception <br>
 
 # Publications
