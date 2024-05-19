@@ -1,7 +1,9 @@
 # Yifei Han
 Ph.D. Student<br>
 [Email](hanyf@psych.ac.cn) / [Google Scholar](https://scholar.google.com/citations?user=UOXgriEAAAAJ&hl=zh-CN)<br>
-Research Interests: Visual perception, Attention
+
+# Research Interests
+Visual perception, Attention, Neural Networks
 
 # Education
 08.2019 - Present<br>
