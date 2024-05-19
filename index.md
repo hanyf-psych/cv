@@ -26,9 +26,15 @@ Supervisor: [Jiehui Qian](https://psy.sysu.edu.cn/teacher/309)
 Topic: Attention, Size perception <br>
 
 # Publications
-__Journal Articles__ (* indicates correspondent author)
+__Journal Articles__ (#: co-first author; *: correspondent author)
 1. **Han, Y.**, Han, W., Li, L. *, Zhang, T. *, & Wang, Y. (2023). Identifying critical kinematic features of animate motion and contribution to animacy perception. iScience, 26(9). [[doi](https://doi.org/10.1016/j.isci.2023.107658)]<br>
 2. **Han, Y.**, Tan, Z., Zhuang, H., & Qian, J. * (2022). Contrasting effects of exogenous and endogenous attention on size perception. British Journal of Psychology, 113(1), 153–175. [[doi](https://doi.org/10.1111/bjop.12529)]<br>
 3. Qian, J. *, Zhang, K., Lei, Q. *, **Han, Y.**, & Li, W. (2020). Task-dependent effects of voluntary space-based and involuntary feature-based attention on visual working memory. Psychological Research, 84(5), 1304–1319.[[doi]( https://doi.org/10.1007/s00426-019-01161-x)]
+
+__Manuscripts__(#: co-first author; *: correspondent author)
+1. Han, W., Feng, T., **Han, Y.**, Sun, Y., Jiang, Y., & Zhang, T. * (submitted).The brain time estimation system is dynamically assembled by non-temporal perceptual states.
+
+__Conference Presentations__
+
 
 
