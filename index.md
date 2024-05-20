@@ -38,10 +38,10 @@ __Conference Presentations__
 1. **Han, Y.**, Han, W., Li, L. *, Zhang, T. *, & Wang, Y. (2022, June). Identifying critical kinematic features of animate motion and contribution to animacy perception. [Talk session]. Brown Bag Series in the State Key Laboratory of Brain and Cognitive Science. Beijing, China.
 
 # Professional Experience
-__Teaching__
-TA, Cognitive Psychology, University of Chinese Academy of Sciences, 2023<br>
+__Teaching__ <br>
+TA, Cognitive Psychology, University of Chinese Academy of Sciences, 2023 <br>
 
-__Membership__
-Chinese Psychological Society
+__Membership__ <br>
+Chinese Psychological Society <br>
 
 
