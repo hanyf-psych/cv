@@ -32,9 +32,12 @@ __Journal Articles__ (#: co-first author; *: correspondent author)
 3. Qian, J. *, Zhang, K., Lei, Q. *, **Han, Y.**, & Li, W. (2020). Task-dependent effects of voluntary space-based and involuntary feature-based attention on visual working memory. Psychological Research, 84(5), 1304–1319.[[doi]( https://doi.org/10.1007/s00426-019-01161-x)]
 
 __Manuscripts__ (#: co-first author; *: correspondent author)
-1. Han, W., Feng, T., **Han, Y.**, Sun, Y., Jiang, Y., & Zhang, T. * (submitted).The brain time estimation system is dynamically assembled by non-temporal perceptual states.
+1. Han, W., Feng, T., **Han, Y.**, Sun, Y., Jiang, Y., & Zhang, T. * (submitted).The brain time estimation system is dynamically assembled by non-temporal perceptual states. [[preprint](https://www.biorxiv.org/content/10.1101/2023.09.20.556438v1)]
 
 __Conference Presentations__ 
 1. **Han, Y.**, Han, W., Li, L. *, Zhang, T. *, & Wang, Y. (2022, June). Identifying critical kinematic features of animate motion and contribution to animacy perception. [Talk session]. Brown Bag Series in the State Key Laboratory of Brain and Cognitive Science. Beijing, China.
+
+# Teaching Experience
+2023，TA, Cognitive Psychology, University of Chinese Academy of Sciences
 
 
