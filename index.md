@@ -39,9 +39,9 @@ __Conference Presentations__
 
 # Professional Experience
 __Teaching__ <br>
-TA, Cognitive Psychology, University of Chinese Academy of Sciences, 2023 <br>
+- TA, Cognitive Psychology, University of Chinese Academy of Sciences, 2023 <br>
 
 __Membership__ <br>
-Chinese Psychological Society <br>
+- Chinese Psychological Society <br>
 
 
