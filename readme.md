@@ -17,12 +17,12 @@ Visual system, Visual perception, Computer vision
 # Research Experiences
 08.2019 - Present<br>
 Postgraduate research, [Cognitive Neurophysiology Laboratory](http://neuron.psych.ac.cn/)<br>
-Supervisor: [Tao Zhang](http://psych.cas.cn/sourcedb/cn/expert/201003/t20100324_6369818.html)<br>
+Advisor: [Tao Zhang](http://psych.cas.cn/sourcedb/cn/expert/201003/t20100324_6369818.html)<br>
 Topic: Object recognition, Spatiotemporal information processing <br>
 
 12.2017 – 06.2019<br>
 Undergraduate research, Visual Cognition and Imaging Lab<br>
-Supervisor: [Jiehui Qian](https://psy.sysu.edu.cn/teacher/309)<br>
+Advisor: [Jiehui Qian](https://psy.sysu.edu.cn/teacher/309)<br>
 Topic: Attention, Size perception <br>
 
 # Publications
