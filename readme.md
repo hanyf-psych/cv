@@ -34,11 +34,18 @@ __Journal Articles__ (#: co-first author; *: correspondent author)
 __Manuscripts__ (#: co-first author; *: correspondent author)
 1. Han Y.#, Yang X.#, Wang G.#*,Zhang, T. *, Wang, Y. *,(submitted). Tiny flying target detection combining visual
 appearance and temporal motion characteristics.
-2. 
+2. Han, Y., Gu F., Yang X., Wang G., Li, L.*,Zhang, T. *, & Wang Y. (submitted). Birds are better at using gravity.
 3. Han, W., Feng, T., **Han, Y.**, Sun, Y., Jiang, Y., & Zhang, T. * (submitted).The brain time estimation system is dynamically assembled by non-temporal perceptual states. [[preprint](https://www.biorxiv.org/content/10.1101/2023.09.20.556438v1)]
 
 __Conference Presentations__ 
 1. **Han, Y.**, Han, W., Li, L. *, Zhang, T. *, & Wang, Y. (2022, June). Identifying critical kinematic features of animate motion and contribution to animacy perception. [Talk session]. Brown Bag Series in the State Key Laboratory of Brain and Cognitive Science. Beijing, China.
+2.**Han, Y.**, Han, W., Li, L. *, Zhang, T. *, & Wang, Y. (2023, August). Identifying critical kinematic features of animate
+motion and contribution to animacy perception. Poster presented at the 5th China Vision Science, Wenzhou,
+Zhejiang, China.
+
+__Patent__
+Zhang T. & **Han, Y.** (2023) A Method and System for Constructing a Classification Model for Birds and Drones
+Based on Centroid Motion Features
 
 # Professional Experience
 __Teaching__ <br>
@@ -46,5 +53,6 @@ __Teaching__ <br>
 
 __Membership__ <br>
 - Chinese Psychological Society <br>
+
 
 
