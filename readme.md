@@ -34,7 +34,7 @@ __Journal Articles__ (#: co-first author; *: correspondent author)
 __Manuscripts__ (#: co-first author; *: correspondent author)
 1. **Han Y.^#^**, Yang X.^#^, Wang G.^#^*,Zhang, T. *, Wang, Y. *,(submitted). Tiny flying target detection combining visual
 appearance and temporal motion characteristics.<br>
-2. Han, Y., Gu F., Yang X., Wang G., Li, L.*,Zhang, T. *, & Wang Y. (submitted). Birds are better at using gravity.<br>
+2. **Han, Y.**, Gu F., Yang X., Wang G., Li, L.*,Zhang, T. *, & Wang Y. (submitted). Birds are better at using gravity.<br>
 3. Han, W., Feng, T., **Han, Y.**, Sun, Y., Jiang, Y., & Zhang, T. * (submitted).The brain time estimation system is dynamically assembled by non-temporal perceptual states. [[preprint](https://www.biorxiv.org/content/10.1101/2023.09.20.556438v1)]
 
 __Conference Presentations__ 
