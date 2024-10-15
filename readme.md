@@ -12,7 +12,7 @@ B.S., Basic Psychology<br>
 [Department of Psychology, Sun Yat-Sen University](https://psy.sysu.edu.cn/) - Guangzhou, China 
 
 # Research Interests
-Visual perception, Attention, Neural Networks
+Visual system, Visual perception, Computer vision
 
 # Research Experiences
 08.2019 - Present<br>
