@@ -32,7 +32,7 @@ __Journal Articles__ (#: co-first author; *: correspondent author)
 3. Qian, J. *, Zhang, K., Lei, Q. *, **Han, Y.**, & Li, W. (2020). Task-dependent effects of voluntary space-based and involuntary feature-based attention on visual working memory. Psychological Research, 84(5), 1304–1319.[[doi]( https://doi.org/10.1007/s00426-019-01161-x)]
 
 __Manuscripts__ (#: co-first author; *: correspondent author)
-1. Han Y.#, Yang X.#, Wang G.#*,Zhang, T. *, Wang, Y. *,(submitted). Tiny flying target detection combining visual
+1. **Han Y.^#^**, Yang X.^#^, Wang G.^#^*,Zhang, T. *, Wang, Y. *,(submitted). Tiny flying target detection combining visual
 appearance and temporal motion characteristics.
 2. Han, Y., Gu F., Yang X., Wang G., Li, L.*,Zhang, T. *, & Wang Y. (submitted). Birds are better at using gravity.
 3. Han, W., Feng, T., **Han, Y.**, Sun, Y., Jiang, Y., & Zhang, T. * (submitted).The brain time estimation system is dynamically assembled by non-temporal perceptual states. [[preprint](https://www.biorxiv.org/content/10.1101/2023.09.20.556438v1)]
@@ -43,7 +43,7 @@ __Conference Presentations__
 motion and contribution to animacy perception. Poster presented at the 5th China Vision Science, Wenzhou,
 Zhejiang, China.
 
-__Patent__
+__Patent__ 
 Zhang T. & **Han, Y.** (2023) A Method and System for Constructing a Classification Model for Birds and Drones
 Based on Centroid Motion Features
 
