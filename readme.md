@@ -44,7 +44,7 @@ motion and contribution to animacy perception. Poster presented at the 5th China
 Zhejiang, China.
 
 __Patent__ 
-Zhang T. & **Han, Y.** (2023) A Method and System for Constructing a Classification Model for Birds and Drones
+1. Zhang T. & **Han, Y.** (2023) A Method and System for Constructing a Classification Model for Birds and Drones
 Based on Centroid Motion Features
 
 # Professional Experience
